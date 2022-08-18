@@ -1,7 +1,7 @@
 # ModbyDaylight-EditorMaterials
 Collection of materials for use in Dead by Daylight modding
 
-## Change log
+## Changelog
 
 8/17/22
 
