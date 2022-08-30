@@ -3,6 +3,11 @@ Collection of materials for use in Dead by Daylight modding
 
 ## Changelog
 
+8/30/22
+
+Updated M_DirtyGlass
+-Material should now be 1:1 to in-game.
+
 8/28/22
 
 Added M_DirtyGlass and its instance
