@@ -3,6 +3,12 @@ Collection of materials for use in Dead by Daylight modding
 
 ## Changelog
 
+9/13/22
+
+Added M_Foliage_v2 and MI_Foliage_v2
+
+-This material should be used for Map objects only. it uses the basic BC/ORM/N setup with some extra parameters for grass wind and some Hue/Saturation/Tint parameters for the BC
+
 9/10/22
 
 Added M_BlendMapRgb and MI_BlendMapRgb_AdamInstance
