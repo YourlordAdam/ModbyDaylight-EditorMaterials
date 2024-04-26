@@ -7,6 +7,12 @@ Collection of materials for use in Dead by Daylight modding
 
 Merged wip to main updated to UE5
 
+3/5/23
+
+Updated M_Slasher_Cust
+
+-wip for usage of BC/ORM/N - B parameters, eg Bleeding Mask for ghostface (Cannot be tested in game until PS is updated)
+
 9/13/22
 
 Added M_Foliage_v2 and MI_Foliage_v2
