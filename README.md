@@ -3,6 +3,10 @@ Collection of materials for use in Dead by Daylight modding
 
 ## Changelog
 
+4/26/24
+
+Merged wip to main updated to UE5
+
 9/13/22
 
 Added M_Foliage_v2 and MI_Foliage_v2
